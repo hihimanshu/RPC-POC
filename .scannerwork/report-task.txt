@@ -1,6 +1,0 @@
-projectKey=HimanshuSingh-rpc-app
-serverUrl=http://localhost:9099
-serverVersion=25.3.0.104237
-dashboardUrl=http://localhost:9099/dashboard?id=HimanshuSingh-rpc-app
-ceTaskId=f5969374-a248-41bf-8d78-258b5dc57cb9
-ceTaskUrl=http://localhost:9099/api/ce/task?id=f5969374-a248-41bf-8d78-258b5dc57cb9
